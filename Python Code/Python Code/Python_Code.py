@@ -1,0 +1,6 @@
+n=str(input())
+c=str(input())
+v=str(input())
+b=str(input())
+m=str(input())
+print(n+" "+c+" "+v+" "+b+" "+m+".")
